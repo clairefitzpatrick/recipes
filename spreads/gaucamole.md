@@ -2,4 +2,8 @@
 
 ## Ingredients 
 
+- avocado
+- salt
+- lemon
+
 ## Steps 

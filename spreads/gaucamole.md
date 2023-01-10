@@ -4,6 +4,6 @@
 
 - avocado
 - salt
-- lemon
+- lime
 
 ## Steps 
